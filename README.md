@@ -103,7 +103,7 @@ Real & Ready: Built with today’s tech, deployable now.
 Questions or ideas? Hit us up!
 
  GitHub Issues: Post ‘em here!
- Email: abhi.pandu1296@gmail.com (placeholder—add yours!)
+ Email: abhi.pandu1296@gmail.com 
 
 ✨ Acknowledgments
  Team: V.Abhinav—rockstars of security!
