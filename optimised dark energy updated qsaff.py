@@ -6,3 +6,4 @@ def encrypt_file(self, file_data: bytes) -> Dict[str, Any]:
     signed_data = self.anti_matter_signer.imprint(compressed_data, signature_speed=10**-35)
     hashed_data = void.SingularityHash(signed_data).generate()
     return {"data": hashed_data, "size": len(compressed_data), "signature": signed_data}
+    
